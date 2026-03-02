@@ -1,6 +1,6 @@
 # 📊 Évolution du taux de scolarisation des 15–29 ans (2010–2021)
 
-## 🎓 BUT Sciences des Données – IUT Aurillac  
+## 🎓  BUT Sciences des Données – IUT Aurillac  
 Challenge Dataviz 2025 – Avec le concours de l’INSEE  
 
 ### 👥 Équipe
@@ -12,7 +12,7 @@ Challenge Dataviz 2025 – Avec le concours de l’INSEE
 
 ## 🎯 Problématique
 
-Comment la scolarisation des jeunes âgés de 15 à 29 ans a-t-elle évolué entre 2010 et 2021 en France ?
+Comment la scolarisation des jeunes âgés de 15 à 29 ans a-t-elle évolué entre 2010 et 2021 en France et particulière dans le département du Cantal ?
 
 ---
 
@@ -65,9 +65,15 @@ Taux = (Population scolarisée / Population totale) × 100
 
 ## 📊 Visualisation
 
-Le graphique comparatif illustre l’évolution du taux de scolarisation par tranche d’âge entre 2010 et 2021.
+Le graphique comparatif illustre l’évolution du taux de scolarisation en France  par tranche d’âge entre 2010 et 2021.
 
+<p align="center">
+  <img src="image_2.png" width="800"/>
+</p>
 
+---
 
-```markdown
-![Evolution taux de scolarisation](images/graphique_scolarisation.png)
+Le graphique comparatif illustre l’évolution du taux de scolarisation dans le Département du Cantal  par tranche d’âge entre 2010 et 2021
+<p align="center">
+  <img src="image_1.png" width="800"/>
+</p>
